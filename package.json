@@ -36,7 +36,7 @@
     "rimraf": "~2.6.2",
     "should": "~13.2.1",
     "sinon": "~4.4.6",
-    "snyk": "~1.70.2"
+    "snyk": "~1.996.0"
   },
   "scripts": {
     "commitmsg": "node ./.hooks/commit-msg",
